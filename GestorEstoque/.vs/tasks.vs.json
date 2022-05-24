@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-AssemblyInfo",
+      "appliesTo": "GestorEstoque/Properties/AssemblyInfo.cs",
+      "type": "launch"
+    }
+  ]
+}
